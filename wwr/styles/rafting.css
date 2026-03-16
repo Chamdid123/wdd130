@@ -1,7 +1,7 @@
 :root {
     --primary-color: #9f5c5c;
-    --secondary-color:#256782;
-    --text-color: hsl(81, 22%, 79%);
+    --secondary-color: rgb(205, 214, 255);
+    --text-color: hsl(209, 21%, 60%);
     --heading-font: Verdana, Geneva, Tahoma, sans-serif;
 
 }
